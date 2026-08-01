@@ -2,6 +2,15 @@
 
 Laboratório doméstico integrado de SOC, Cybersecurity e DevSecOps.
 
+<img width="1916" height="592" alt="image" src="https://github.com/user-attachments/assets/a06a7970-bb7c-4854-8d93-4977840bfc35" />
+<img width="1899" height="940" alt="image" src="https://github.com/user-attachments/assets/b4af461f-f09d-4adc-adb8-6f3ab73f8ca2" />
+<img width="1909" height="940" alt="image" src="https://github.com/user-attachments/assets/fc181559-9d71-4292-bba2-7c188483920a" />
+
+
+
+
+
+
 ## 🎯 Objetivo
 
 Unir desenvolvimento Java (Spring Boot) com operações de segurança (SIEM/SOC) para formação profissional completa.
